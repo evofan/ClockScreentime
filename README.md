@@ -18,6 +18,14 @@ memo
 ・イントール時に警告は特に出ない  
 ・Windows10の設定-スクリーンセーバー内でサムネールが表示されない（黒画像）  
 
+アンインストールは  
+
+Windows10の「設定」→「アプリ」→「アプリと機能」からではアンインストール出来ないので、  
+<img src="https://evofan.github.io/ClockScreentime/screenshot/pic_uninstall1.jpg" width="25%">  
+
+「コントロールパネル」→「プログラムと機能」→選択後に右クリックしてアンインストールしてください。  
+<img src="https://evofan.github.io/ClockScreentime/screenshot/pic_uninstall2.jpg" width="25%">  
+
 reference  
 
 **Avenir - Font Family (Typeface) Free Download TTF, OTF - Fontmirror.com**  
