@@ -1,12 +1,15 @@
 # Test to create a screen saver.
 
+**DOWNLOAD**  
+右メニューのReleasesからAnalogClock_setup.zipをダウンロード。  
+
 memo  
 
 <img src="https://evofan.github.io/ClockScreentime/screenshot/pic_analogclock1.jpg" width="50%">  
 
-<img src="https://evofan.github.io/ClockScreentime/screenshot/pic_analogclock2.jpg" width="25%">  
-
 <img src="https://evofan.github.io/ClockScreentime/screenshot/pic_analogclock3.jpg" width="25%">  
+
+<img src="https://evofan.github.io/ClockScreentime/screenshot/pic_analogclock2.jpg" width="25%">  
 
 昔Flash(.swf)からスクリーンセーバー変換出来るソフトが幾つか出ていて、テストした名残。  
 
@@ -26,3 +29,5 @@ Use font.
 >Mac Screensaver  
 >Windows Screensaver  
 >Android Live Wallpaper  
+
+Flash+Tweenmaxで色変換（16進表示）している。  
